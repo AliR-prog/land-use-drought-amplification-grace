@@ -1,0 +1,7 @@
+## Computer Code Availability
+
+The Python code used to build the basin-year dataset, train the Random Forest model, compute SHAP-based attribution, and run the counterfactual land-use experiment is openly available in a public GitHub repository:
+
+https://github.com/AliR-prog/land-use-drought-amplification-grace 
+
+The repository contains individual source files, a README file with instructions for installation and use, a quick-test script, and example input files that allow anonymous users to verify the workflow. The code is distributed under an open-source license and is freely available for download.
